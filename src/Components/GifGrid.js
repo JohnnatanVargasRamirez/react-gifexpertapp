@@ -1,4 +1,4 @@
-import React from 'react'
+import React from 'react';
 import { useFetchGifs } from '../hooks/useFetchGifs';
 import { GifGridItem } from './GifGridItem';
 // useEffect permite ejecutar codigo de manera condicional.

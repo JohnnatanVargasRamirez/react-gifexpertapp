@@ -1,5 +1,5 @@
-import React from 'react'
-import 'animate.css'
+import React from 'react';
+import 'animate.css';
 
 export const GifGridItem = ({id,title,url}) => {
     return (
